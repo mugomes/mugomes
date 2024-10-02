@@ -1,6 +1,6 @@
 ## Sobre
 
-Meu nome é Murilo Gomes, sou desenvolvedor back-end, já desenvolvi vários softwares e sistemas web com PHP, ElectronJS, Gambas3, VB.NET, C# e Python também sou técnico em informática.
+Meu nome é Murilo Gomes, sou desenvolvedor back-end, já desenvolvi vários softwares e sistemas web com PHP, ElectronJS, Gambas3, VB.NET, C# e Python, também sou técnico em informática.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">

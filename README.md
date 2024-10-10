@@ -1,6 +1,10 @@
 ## Sobre
 
-Meu nome é Murilo Gomes, sou desenvolvedor back-end, já desenvolvi vários softwares e sistemas web com PHP, ElectronJS, Gambas3, VB.NET, C# e Python.
+Meu nome é Murilo Gomes, sou desenvolvedor Full Stack há 20 anos.
+
+Softwares: VSCode, NetBeans, Gambas, Visual Studio, Git, GitHub, Apache, phpmyadmin e Node
+Front-end: HTML5, XHTML, CSS, JavaScript, jQuery, JSON, XML, Bootstrap e Electron
+Back-end: PHP, ASP, Python, ShellScript, Gambas3, VB.NET, WordPress, CodeIgniter
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -8,6 +12,8 @@ Meu nome é Murilo Gomes, sou desenvolvedor back-end, já desenvolvi vários sof
   <img align="center" alt="Mu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mu-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Mu-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+     <img align="center" alt="Mu-CodeIgniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg"> 
+   <img align="center" alt="Mu-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"> 
 </div>
   
   ##
